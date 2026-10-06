@@ -56,3 +56,5 @@ function MaquinaEstado:TeclaPresionada(tecla)
     end
 
 end
+
+return MaquinaEstado
