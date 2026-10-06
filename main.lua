@@ -8,7 +8,7 @@ maquinaEstado = nil
 
 function love.load()
 
-    love.window.setMode(800, 600)
+    love.window.setMode(960, 600)
 
     maquinaEstado = MaquinaEstado:Nuevo()
 
